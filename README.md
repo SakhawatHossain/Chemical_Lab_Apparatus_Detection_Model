@@ -1,1 +1,1 @@
-# Chemical_Lab_Apparatus_Detection_Model
+# A Novel Multiclass Dataset for Detecting Chemical Laboratory Apparatus Using CNN-Based Model
